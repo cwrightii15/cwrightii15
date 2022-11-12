@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cloud Computing
 - 🌱 I’m currently learning Solutions in AWS
 - 💞️ I’m looking to collaborate on Cloud Solutions
-- 📫 How to reach me charleswrightii@outlook.com
+- 📫 How to reach me https://www.linkedin.com/in/charles-w-6549b91b9
 
 Check out my latest [AWS Capstone Project_Three Tier Architecture ](https://github.com/users/cwrightii15/projects/3)
 <!---
